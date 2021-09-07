@@ -16,7 +16,7 @@ import abq_ExcelUtilities.excelUtilities
 # setup variables
 
 # open odb and extract data from specified node
-def to_excel(sample, node, assembly_name, wd):
+def disp_to_excel(sample, node, assembly_name, wd):
     xyDataSet = []
     for n in range(1,31):
         filepath = wd + r'\{0}.odb'.format(sample + '-' + str(n))
