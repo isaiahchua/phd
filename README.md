@@ -9,5 +9,8 @@
 # run_multiple_jobs.bat
 # - run all the ".inp" files in a folder using Abaqus from Windows cmd
 # 
+# fetch_node_displacement.py
+# - fetch single node displacement values from the simulation results and save an excel file with the values tabulated
+#
 # LPU_data_analysis.py
-# - analyse the data from experiments and FEM with elastic-plastic fracture mechanics and output the J-integral R-curve
+# - analyse the data from experiments and FEM results with elastic-plastic fracture mechanics and output the J-integral R-curve
