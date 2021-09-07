@@ -1,4 +1,4 @@
-# Code I wrote the research projects during my Ph.D.
+# Code I wrote for the research projects during my Ph.D.
 # 
 # File descriptions:
 # 
